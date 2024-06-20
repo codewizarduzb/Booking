@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/api-service-booking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-service-booking/booking-protos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/booking-service-booking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/booking-service-booking/booking-protos" vcs="Git" />
+  </component>
+</project>
